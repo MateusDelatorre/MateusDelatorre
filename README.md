@@ -3,7 +3,6 @@
 <h2 align="center" margin="20px">
 Brazilian programmer current living on Argentina. I speak Portuguese(Native), english(intermediary) and current learning spanish/catellano.
 </h2>
-<h2 align="right"> <img src="https://komarev.com/ghpvc/?username=mateusdelatorre&label=Profile%20views&color=0e75b6&style=flat" alt="mateusdelatorre" /> </h2>
 
 # Professional Experience
 - **Flutter Mobile Engineer**: 1 year and 9 months of working on the startup <a href="https://www.linkedin.com/company/flower-education/posts/?feedView=all">Flower Education</a> with **Flutter**, creating efficient, high-performance mobile applications for Android ,iOS and web.
